@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rzxpiyuh" target="blank"><img src="https://img.shields.io/twitter/follow/rzxpiyush?logo=twitter&style=for-the-badge" alt="rzxpiyush" /></a> </p>
 
-- 🔭 I’m currently working on [Network Risk Assessment Tool](https://github.com/piyush-jha-16/Network-Risk-Assessment-Tool)
+- 🔭 I’m currently working on [Threat-IQ](https://github.com/piyush-jha-16/Threat-IQ)
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
