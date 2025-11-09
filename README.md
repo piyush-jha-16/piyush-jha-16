@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rzxpiyush16" target="blank"><img src="https://img.shields.io/twitter/follow/rzxpiyush16?logo=twitter&style=for-the-badge" alt="rzxpiyush16" /></a> </p>
 
-- 🔭 I’m currently working on [Interactive Vulnerability Lab](https://github.com/piyush-jha-16/Cipher-Vault)
+- 🔭 I’m currently working on [Interactive Vulnerability Lab](https://github.com/piyush-jha-16/Interactive-Vulnerability-Lab)
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
