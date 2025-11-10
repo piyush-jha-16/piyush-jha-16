@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Jha</h1>
-<h3 align="center">A developer passionate about building secure, scalable, and intelligent systems. I love working on cybersecurity, app development, and backend automation projects. My recent work includes creating a threat analysis system and a network security scanner focused on real-time risk detection and automation.</h3>
+<h3 align="center">A developer passionate about building secure, scalable, and intelligent systems. </h3>
 
 <p align="left"> <a href="https://twitter.com/rzxpiyush16" target="blank"><img src="https://img.shields.io/twitter/follow/rzxpiyush16?logo=twitter&style=for-the-badge" alt="rzxpiyush16" /></a> </p>
 
