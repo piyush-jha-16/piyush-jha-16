@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://piyush-jha-16.github.io/](https://piyush-jha-16.github.io/)
+- 👨‍💻 All of my projects are available at [https://piyushjhapf.netlify.app/](https://piyushjhapf.netlify.app/)
 
 - 💬 Ask me about **Python, Flask and Javascript**
 
