@@ -125,13 +125,12 @@ Currently advancing expertise in:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyush-jha-16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-jha-16&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-jha-16&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jha-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jha-16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -139,11 +138,7 @@ Currently advancing expertise in:
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush-jha-16/piyush-jha-16/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush-jha-16/piyush-jha-16/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/piyush-jha-16/piyush-jha-16/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&custom_title=Contribution%20Activity&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area_color=7F3FBF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
 </div>
 
 <br/>
