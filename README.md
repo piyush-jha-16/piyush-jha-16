@@ -124,22 +124,18 @@ Currently advancing expertise in:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-jha-16&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyush-jha-16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-jha-16&theme=tokyonight"/>
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jha-16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jha-16&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyush-jha-16&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&custom_title=Contribution%20Activity&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area_color=7F3FBF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&bg_color=1a1b27&color=628fdb&line=628fdb&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</p>
 
 <br/>
 
