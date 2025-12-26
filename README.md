@@ -125,17 +125,21 @@ Currently advancing expertise in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyush-jha-16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-jha-16&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush-jha-16&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jha-16&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-jha-16&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&bg_color=1a1b27&color=628fdb&line=628fdb&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jha-16&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 <br/>
 
