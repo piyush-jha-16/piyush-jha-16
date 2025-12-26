@@ -171,7 +171,7 @@ Currently advancing expertise in:
   </tr>
   <tr>
     <td>📄 Resume</td>
-    <td><a href="https://drive.google.com/file/d/1qpE1LIJjhOJ7_ClVGxxYbhLHyuWuzgIF/view?usp=sharing" target="_blank">View Resume</a></td>
+    <td><a href="https://drive.google.com/file/d/1GoBuT8w6a_1UNnsSe_VXfOgL52TLTXJF/view?usp=sharing" target="_blank">View Resume</a></td>
   </tr>
   <tr>
     <td>🔗 LinkedIn</td>
