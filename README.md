@@ -145,7 +145,7 @@ Currently advancing expertise in:
   <a href="https://www.leetcode.com/piyushjha162" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/piyushjz0m3" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/rzxpiyush" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
