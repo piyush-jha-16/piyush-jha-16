@@ -65,7 +65,7 @@ Results-driven software developer with a strong foundation in **full-stack devel
 
 ## 🔥 Current Focus & Projects
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 ### 🛡️ Active Development
 **[Interactive Vulnerability Lab](https://github.com/piyush-jha-16/Interactive-Vulnerability-Lab)**  
