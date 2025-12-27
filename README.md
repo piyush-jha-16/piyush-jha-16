@@ -141,7 +141,7 @@ Currently advancing expertise in:
 
 ## 🏆 Competitive Programming
 
-<p align="left">
+<p align="center">
   <a href="https://www.leetcode.com/piyushjha162" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
