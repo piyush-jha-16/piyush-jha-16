@@ -124,18 +124,19 @@ Currently advancing expertise in:
 
 ## 📊 GitHub Analytics
 
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-jha-16&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=piyush-jha-16&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&theme=tokyo-night&hide_border=true" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyush-jha-16/piyush-jha-16/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <br/>
 
