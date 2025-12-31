@@ -132,11 +132,6 @@ Currently advancing expertise in:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-jha-16&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piyush-jha-16/piyush-jha-16/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <br/>
 
