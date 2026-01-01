@@ -3,7 +3,6 @@
 </div>
 
 <h3 align="center">🎯 Software Developer | Security-Focused Solutions Architect | Algorithm Specialist</h3>
-
 <p align="center">
   <em>Building secure, scalable web applications with expertise in Python, Flask, and modern JavaScript frameworks</em>
 </p>
